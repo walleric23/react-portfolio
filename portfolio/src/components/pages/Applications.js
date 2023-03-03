@@ -6,78 +6,119 @@ export default function Applications() {
       <div>
         <h1>My developed applications</h1>
         <p>
-          Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
-          Curabitur pellentesque turpis sit amet eros iaculis, a mollis arcu
-          dictum. Ut vel ante eget massa ornare placerat. Etiam nisl orci,
-          finibus sodales volutpat et, hendrerit ut dolor. Suspendisse porta
-          dictum nunc, sed pretium risus rutrum eget. Nam consequat, ligula in
-          faucibus vestibulum, nisi justo laoreet risus, luctus luctus mi lacus
-          sit amet libero. Class aptent taciti sociosqu ad litora torquent per
-          conubia nostra, per inceptos himenaeos. Mauris pretium condimentum
-          tellus eget lobortis. Interdum et malesuada fames ac ante ipsum primis
-          in faucibus. Donec placerat accumsan mi, ut congue neque placerat eu.
-          Donec nec ipsum in velit pellentesque vehicula sit amet at augue.
-          Maecenas aliquam bibendum congue. Pellentesque semper, lectus non
-          ullamcorper iaculis, est ligula suscipit velit, sed bibendum turpis
-          dui in sapien.
+          Every week during the full stack bootcamp I have taken, we have had
+          different challenges we were tasked with completing for each
+          corresponding unit. Following below, is some examples that I have
+          selected to include in my portfolio. You will be presented with a
+          screenshot or short video of a developed application, a link to said
+          application, and the corresponding repository where you can view all
+          of my code for each application.
         </p>
       </div>
       <div>
-        <h2>Search Engine Optimization</h2>
-        <img src="./images/gec568e9b8045b9b1b816676211986b4d752805c3e4f108e112ff9c9259512f3d1da7985d03d3883d5c30e5f7478a9165_640.jpg" />
+        <h2>Semantic Markup</h2>
+        <img src="../../../images/semantic-markup.PNG" />
+        <div>
+          <a href="https://walleric23.github.io/Semantic-markup/">
+            Deployed Application
+          </a>
+        </div>
+        <div>
+          <a href="https://github.com/walleric23/Semantic-markup">Repository</a>
+        </div>
         <p>
-          Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
-          Curabitur pellentesque turpis sit amet eros iaculis, a mollis arcu
-          dictum. Ut vel ante eget massa ornare placerat. Etiam nisl orci,
-          finibus sodales volutpat et, hendrerit ut dolor. Suspendisse porta
-          dictum nunc, sed pretium risus rutrum eget. Nam consequat, ligula in
-          faucibus vestibulum, nisi justo laoreet risus, luctus luctus mi lacus
-          sit amet libero. Class aptent taciti sociosqu ad litora torquent per
-          conubia nostra, per inceptos himenaeos. Mauris pretium condimentum
-          tellus eget lobortis. Interdum et malesuada fames ac ante ipsum primis
-          in faucibus. Donec placerat accumsan mi, ut congue neque placerat eu.
-          Donec nec ipsum in velit pellentesque vehicula sit amet at augue.
-          Maecenas aliquam bibendum congue. Pellentesque semper, lectus non
-          ullamcorper iaculis, est ligula suscipit velit, sed bibendum turpis
-          dui in sapien.
+          During our first week, we learned all the ins and outs of HTML and
+          some CSS. We were tasked with going through some existing code, and
+          picking it apart to remove uneccessary repitition to downsize the
+          amount of pointless code present in the application.
         </p>
       </div>
       <div>
-        <h2>Search Engine Optimization</h2>
+        <h2>JavaScript Password generator</h2>
+        <img src="../../../images/PassGenerate.PNG" />
+        <div>
+          <a href="https://walleric23.github.io/Password-Generator-Project/">
+            Deployed Application
+          </a>
+        </div>
+        <div>
+          <a href="https://github.com/walleric23/Password-Generator-Project">
+            Repository
+          </a>
+        </div>
         <p>
-          Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
-          Curabitur pellentesque turpis sit amet eros iaculis, a mollis arcu
-          dictum. Ut vel ante eget massa ornare placerat. Etiam nisl orci,
-          finibus sodales volutpat et, hendrerit ut dolor. Suspendisse porta
-          dictum nunc, sed pretium risus rutrum eget. Nam consequat, ligula in
-          faucibus vestibulum, nisi justo laoreet risus, luctus luctus mi lacus
-          sit amet libero. Class aptent taciti sociosqu ad litora torquent per
-          conubia nostra, per inceptos himenaeos. Mauris pretium condimentum
-          tellus eget lobortis. Interdum et malesuada fames ac ante ipsum primis
-          in faucibus. Donec placerat accumsan mi, ut congue neque placerat eu.
-          Donec nec ipsum in velit pellentesque vehicula sit amet at augue.
-          Maecenas aliquam bibendum congue. Pellentesque semper, lectus non
-          ullamcorper iaculis, est ligula suscipit velit, sed bibendum turpis
-          dui in sapien.
+          The purpose of this project was to learn how to utilize different
+          aspects of JavaScript to create a random password generator that meets
+          the users criteria of choice of length and characters to include.
         </p>
       </div>
       <div>
-        <h2>Search Engine Optimization</h2>
+        <h2>Day Planner</h2>
+        <img src="../../../images/DayPlanner.PNG" />
+        <div>
+          <a href="https://walleric23.github.io/Day-planner/">
+            Deployed Application
+          </a>
+        </div>
+        <div>
+          <a href="https://github.com/walleric23/Day-planner">Repository</a>
+        </div>
         <p>
-          Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
-          Curabitur pellentesque turpis sit amet eros iaculis, a mollis arcu
-          dictum. Ut vel ante eget massa ornare placerat. Etiam nisl orci,
-          finibus sodales volutpat et, hendrerit ut dolor. Suspendisse porta
-          dictum nunc, sed pretium risus rutrum eget. Nam consequat, ligula in
-          faucibus vestibulum, nisi justo laoreet risus, luctus luctus mi lacus
-          sit amet libero. Class aptent taciti sociosqu ad litora torquent per
-          conubia nostra, per inceptos himenaeos. Mauris pretium condimentum
-          tellus eget lobortis. Interdum et malesuada fames ac ante ipsum primis
-          in faucibus. Donec placerat accumsan mi, ut congue neque placerat eu.
-          Donec nec ipsum in velit pellentesque vehicula sit amet at augue.
-          Maecenas aliquam bibendum congue. Pellentesque semper, lectus non
-          ullamcorper iaculis, est ligula suscipit velit, sed bibendum turpis
-          dui in sapien.
+          The Purpose of this day planner is to help the user keep an organized
+          plan of all of the events during their day and updates based on time
+          of day.
+        </p>
+      </div>
+      <div>
+        <h2>Note Taker</h2>
+        <img src="../../../images/NoteTaker.PNG" />
+        <div>
+          <a href="https://young-mountain-67155.herokuapp.com/">
+            Deployed Application
+          </a>
+        </div>
+        <div>
+          <a href="https://github.com/walleric23/Note-taker">Repository</a>
+        </div>
+        <p>
+          Use this application to easily create or delete notes about anything
+          you need.
+        </p>
+      </div>
+      <div>
+        <h2>Text Editor</h2>
+        <img src="../../../images/TextEditor.PNG" />
+        <div>
+          <a href="https://pwa-text-editor-ericuw2023.herokuapp.com/">
+            Deployed Application
+          </a>
+        </div>
+        <div>
+          <a href="https://github.com/walleric23/pwa-text-editor">Repository</a>
+        </div>
+        <p>
+          This Web application is a basic text editor that can be used for
+          whatever a client may need. For example, this can be used for note
+          taking, or writing drafts or whatever else someone may need.
+        </p>
+      </div>
+      <div>
+        <h2>Weather Dashboard</h2>
+        <img src="../../../images/WeatherDash.PNG" />
+        <div>
+          <a href="https://walleric23.github.io/weather-dashboard/">
+            Deployed Application
+          </a>
+        </div>
+        <div>
+          <a href="https://github.com/walleric23/weather-dashboard">
+            Repository
+          </a>
+        </div>
+        <p>
+          The Purpose of this weather dashboard is to view the upcoming forecast
+          for the current day and the following 5 day forcast of whichever city
+          the user chooses.
         </p>
       </div>
     </div>

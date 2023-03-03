@@ -4,17 +4,12 @@ export default function Home() {
   return (
     <div>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-        velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-        ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-        non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-        ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-        rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-        tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-        porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-        vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-        fames ac ante ipsum primis in faucibus.
+        My name is Eric Wall, I am 23 years old, I am from Edmonds Washington
+        and have been living here my entire life. Since I graduated highschool,
+        I have been working for Costco. Currently I am working towards receiving
+        my certificate from the University of Washington coding bootcamp.
       </p>
+      <img src="../../../images/unnamed (2).jpg" />
     </div>
   );
 }
