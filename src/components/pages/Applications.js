@@ -18,7 +18,7 @@ export default function Applications() {
       <div>
         <h2>Semantic Markup</h2>
         <div>
-          <img src="../../../images/semantic-markup.PNG" />
+          <img src="../../images/semantic-markup.PNG" />
         </div>
         <div>
           <a href="https://walleric23.github.io/Semantic-markup/">
@@ -37,7 +37,7 @@ export default function Applications() {
       </div>
       <div>
         <h2>JavaScript Password generator</h2>
-        <img src="../../../images/PassGenerate.PNG" />
+        <img src="../../images/PassGenerate.PNG" />
         <div>
           <a href="https://walleric23.github.io/Password-Generator-Project/">
             Deployed Application
@@ -56,7 +56,7 @@ export default function Applications() {
       </div>
       <div>
         <h2>Day Planner</h2>
-        <img src="../../../images/DayPlanner.PNG" />
+        <img src="../../images/DayPlanner.PNG" />
         <div>
           <a href="https://walleric23.github.io/Day-planner/">
             Deployed Application
@@ -73,7 +73,7 @@ export default function Applications() {
       </div>
       <div>
         <h2>Note Taker</h2>
-        <img src="../../../images/NoteTaker.PNG" />
+        <img src="../../images/NoteTaker.PNG" />
         <div>
           <a href="https://young-mountain-67155.herokuapp.com/">
             Deployed Application
@@ -89,7 +89,7 @@ export default function Applications() {
       </div>
       <div>
         <h2>Text Editor</h2>
-        <img src="../../../images/TextEditor.PNG" />
+        <img src="../../images/TextEditor.PNG" />
         <div>
           <a href="https://pwa-text-editor-ericuw2023.herokuapp.com/">
             Deployed Application
@@ -106,7 +106,7 @@ export default function Applications() {
       </div>
       <div>
         <h2>Weather Dashboard</h2>
-        <img src="../../../images/WeatherDash.PNG" />
+        <img src="../../images/WeatherDash.PNG" />
         <div>
           <a href="https://walleric23.github.io/weather-dashboard/">
             Deployed Application
