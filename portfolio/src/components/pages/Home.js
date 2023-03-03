@@ -1,5 +1,5 @@
 import React from "react";
-
+// displays when page is first loaded or home page is selected
 export default function Home() {
   return (
     <div>

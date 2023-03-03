@@ -1,5 +1,5 @@
 import React from "react";
-
+// displays when applications are selected
 export default function Applications() {
   return (
     <div>
@@ -17,7 +17,9 @@ export default function Applications() {
       </div>
       <div>
         <h2>Semantic Markup</h2>
-        <img src="../../../images/semantic-markup.PNG" />
+        <div>
+          <img src="../../../images/semantic-markup.PNG" />
+        </div>
         <div>
           <a href="https://walleric23.github.io/Semantic-markup/">
             Deployed Application

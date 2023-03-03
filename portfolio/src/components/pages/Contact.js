@@ -1,5 +1,5 @@
 import React from "react";
-
+// displays when contact page is selected
 export default function Contact() {
   return (
     <div>
