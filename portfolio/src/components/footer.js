@@ -1,11 +1,6 @@
 import React from "react";
 
-// const styles = {
-//     p: {
-//       flex:,
-//     },
-//   };
-
+// displays at bottom of page
 export default function Footer() {
   return (
     <div className="fixed-bottom">
