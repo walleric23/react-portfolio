@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.c2cab247.css",
+    "main.js": "/react-portfolio/static/js/main.581ff61c.js",
+    "static/media/semanticmarkup.PNG": "/react-portfolio/static/media/semanticmarkup.90e1d7edbbe70a41d475.PNG",
+    "static/media/WeatherDash.PNG": "/react-portfolio/static/media/WeatherDash.b1730bfb6cd100e806ac.PNG",
+    "static/media/avatar.jpg": "/react-portfolio/static/media/avatar.dee9068bc5ef4d6c063d.jpg",
+    "static/media/DayPlanner.PNG": "/react-portfolio/static/media/DayPlanner.15d051344525c9a84a0d.PNG",
+    "static/media/PassGenerate.PNG": "/react-portfolio/static/media/PassGenerate.a74fe694c03b02e55c46.PNG",
+    "static/media/NoteTaker.PNG": "/react-portfolio/static/media/NoteTaker.857ea9fb13fe87050e5b.PNG",
+    "static/media/TextEditor.PNG": "/react-portfolio/static/media/TextEditor.2b0c292524a9edf64073.PNG",
+    "index.html": "/react-portfolio/index.html",
+    "main.c2cab247.css.map": "/react-portfolio/static/css/main.c2cab247.css.map",
+    "main.581ff61c.js.map": "/react-portfolio/static/js/main.581ff61c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.581ff61c.js"
+  ]
+}
